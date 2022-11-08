@@ -6,4 +6,8 @@
 
 3.	Tener un Login, al acceder podrá aceptar si la persona quiere recibir notificaciones a su correo electrónico sobre productos nuevos o en oferta así se tendrá una relación con el cliente directa mediante el correo sin necesidad de ingresar al sitio web para las ofertas. 
 
-Desde mi punto de vista esas son mis 3 mejoras.
+
+4. el sitio web ya cuenta  con una categoria de productos, lo que se puede agregar es un buscador  de productos para encontrar con facilidad el producto.
+
+
+Desde mi punto de vista esas son mis 4 mejoras.
