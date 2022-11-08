@@ -4,6 +4,6 @@
 
 2.	Aplicar estilos de colores amigables a la página.
 
-3.	Tener un Login, al acceder podrá aceptar si la persona quiere recibir notificaciones a su correo electrónico sobre productos nuevos o en oferta así se tendrá una relación con el cliente directa mediante el correo. 
+3.	Tener un Login, al acceder podrá aceptar si la persona quiere recibir notificaciones a su correo electrónico sobre productos nuevos o en oferta así se tendrá una relación con el cliente directa mediante el correo sin necesidad de ingresar al sitio web para las ofertas. 
 
 Desde mi punto de vista esas son mis 3 mejoras.
